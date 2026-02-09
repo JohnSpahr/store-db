@@ -1,0 +1,8 @@
+id: org.johnspahr.violoncello
+name: Violoncello
+author: John Spahr
+description: Text-only web browser for KaiOS devices. Fast loading with dark, light, and sepia color modes.
+version: 3.0.6
+category: utilities
+url: https://github.com/JohnSpahr/violoncello-kai-os/releases/download/3.0.6/Release_vc_3_0_6.zip
+license: Unlicense
